@@ -14,6 +14,8 @@ namespace WebApp
         public static void Main(string[] args)
         {
             CreateHostBuilder(args).Build().Run();
+
+            //m1
         }
 
         public static IHostBuilder CreateHostBuilder(string[] args) =>
