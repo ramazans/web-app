@@ -8,5 +8,6 @@ namespace WebApp.feature1
     public class Class
     {
         //f1-1
+        //f1-2
     }
 }
